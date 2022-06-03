@@ -13,4 +13,4 @@ API reference - http://worldtimeapi.org/
 ![Screenshot_night](https://user-images.githubusercontent.com/62836983/171903466-b89f9e04-5e56-4a14-8af2-514a71b9509b.jpg)
 
 
-and aslo credit to this repo - https://github.com/iamshaunjp/flutter-beginners-tutorial.
+
